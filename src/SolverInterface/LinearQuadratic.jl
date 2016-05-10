@@ -37,6 +37,7 @@ export AbstractLinearQuadraticModel
     getbarrieriter, rewrap
     getnodecount, rewrap
     getbasis
+    updatemodel!
 end
 
 # default addvar!, not adding to any existing constraints
